@@ -2,7 +2,7 @@ package com.driver;
 
 public class Main {
     // Task 1: Create a class Product inside Main class
-    static class Product {
+    public static class Product {
         // Task 3: Create a method product(int, int)
         public int product(int x, int y) {
             return x * y;
